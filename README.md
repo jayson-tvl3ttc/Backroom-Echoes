@@ -10,7 +10,7 @@ is hosted on Google Drive:
 
 **[Download Backroom Echoes (Google Drive)](https://drive.google.com/drive/folders/1kk2eFBku6gEOXTBAHxCbep0okqpAZjdM?usp=drive_link)**
 
-This repository contains only documentation.  
+This repository contains only documentation and scripts.  
 For full project access, please download via the link above.
 
 
