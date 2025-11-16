@@ -18,11 +18,7 @@ For full project access, please download via the link above.
 
 ##  Overview
 
-**Backroom Echoes** is a **VR horror survival experience** that explores how **3D spatial audio** can serve as the *primary* interface for **navigation** and **threat detection** in immersive virtual environments.  
-The project places players in a labyrinthine "Backrooms"-inspired maze, where sound is the key to survival.
-
-Players must activate multiple generators scattered throughout the maze while evading a patrolling enemy.  
-Every gameplay mechanic—from navigation to AI behavior—is controlled by **audio cues**, demonstrating the potential of sound as a functional, emotional, and spatial navigation tool in VR.
+**Backroom Echoes** is a **VR horror survival experience** that explores how **3D spatial audio** can serve as the *primary* interface for **navigation** and **threat detection** in immersive virtual environments. The project places players in a labyrinthine "Backrooms"-inspired maze, where sound is the key to survival. Players must activate multiple generators scattered throughout the maze while evading a patrolling enemy. Every gameplay mechanic (from navigation to AI behavior) is controlled by **audio cues**, demonstrating the potential of sound as a functional, emotional, and spatial navigation tool in VR.
 
 Developed in **Unity (URP + Steam Audio)** with full **VR support (XR Interaction Toolkit)**, this project investigates the intersection of sound design, player psychology, and technical implementation in extended reality environments.
 
@@ -32,10 +28,7 @@ Developed in **Unity (URP + Steam Audio)** with full **VR support (XR Interactio
 
 > “When vision becomes unreliable, hearing becomes survival.”
 
-Backroom Echoes challenges traditional visual-first game design by making **sound perception the main sensory channel** for interaction.  
-Instead of maps or HUDs, players rely on **directional sound cues**—like generator hums, enemy footsteps, and heartbeat feedback—to locate objectives and avoid threats.
-
-Spatial audio not only enhances immersion but *redefines gameplay logic*, shaping how players make decisions under pressure in a sound-dominated world.
+Backroom Echoes challenges traditional visual-first game design by making **sound perception the main sensory channel** for interaction. Instead of maps or HUDs, players rely on **directional sound cues**—like generator hums, enemy footsteps, and heartbeat feedback—to locate objectives and avoid threats. Spatial audio not only enhances immersion but *redefines gameplay logic*, shaping how players make decisions under pressure in a sound-dominated world.
 
 ---
 
